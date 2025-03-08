@@ -1,0 +1,137 @@
+{
+    "general": {
+        "name": "Fabian Silva",
+        "headline": "Ingeniero en computacion, desarrollador de software.",
+        "about": [
+            "Hola, soy un desarrollador de software y analista de datos con más de 2 años de experiencia.",
+            "A lo largo de mi trayectoria, he trabajado en diversos proyectos tanto en el ámbito académico como profesional, lo que me ha permitido desarrollar habilidades en desarrollo de software, análisis de datos y diseño de bases de datos, entre otros.",
+            "Me apasiona el aprendizaje continuo y disfruto enfrentar nuevos desafíos. Siempre busco mejorar mis habilidades y ampliar mis conocimientos para ofrecer soluciones eficientes e innovadoras."
+        ],
+        "socials": {
+            "email": "silvabravofabian@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/fabiansilvabravo",
+            "github": "https://github.com/fabisb"
+        }
+    },
+    "experiences": [
+        {
+            "title": "Desarrollador Full Stack",
+            "company": "LAS MERCEDES",
+            "href": "",
+            "startDate": "09/2024",
+            "endDate": "ACTUALIDAD",
+            "description": "Supervisor general de equipo de desarrollo/mantenimiento del software.",
+            "logo": "/logos/vercel-white.png",
+            "skills": ["Node.js","Express", "MySQL", "HTML","CSS","JavaScript","Bootstrap", "Electron.js"]
+        },
+        {
+            "title": "Programador Junior",
+            "company": "LAS MERCEDES",
+            "href": "",
+            "startDate": "05/2024",
+            "endDate": "09/2024",
+            "description": "Integrante de equipo de desarrollo de software. Desarrollo de middlewares, routing y metodos de seguridad.",
+            "logo": "/logos/vercel-white.png",
+            "skills": ["Node.js", "Express", "MySQL","puppeteer","axios","JSONwebtoken" ]
+        },
+        {
+            "title": "Analista de datos, Desarrollador de software",
+            "company": "LA MILAGROSA I.P.S.",
+            "href": "",
+            "startDate": "06/2023",
+            "endDate": "04/2024",
+            "description": "Desarrollo de programa administrativo para laboratorio clinico. Migracion y actualizacion de base de datos, credenciales y estadisticas.",
+            "logo": "/logos/vercel-white.png",
+            "skills": ["Node.js","Express","MySQL","HTML","CSS","JavaScript","Bootstrap"]
+        }
+    ],
+    "education": [
+        {
+            "subject": "Ingenieria en computacion",
+            "degree": "",
+            "university": "Universidad Rafael Belloso Chacin", 
+            "href": "",
+            "startDate": "2019", 
+            "endDate": "2024", 
+            "description": "Ingenieria en computacion, aprendizaje de lenguajes de programacion, desarrollo de software, analisis de datos y diseño de bases de datos. Tambien adquiri conocimientos de redes y seguridad informatica, asi como parte de Electronica y control."
+        },
+        {
+            "subject": "U.E.P. CONOPAIMA",
+            "degree": "Bachiller en Ciencias",
+            "university": "U.E.P. CONOPAIMA", 
+            "href": "",
+            "startDate": "", 
+            "endDate": "2019", 
+            "description": "Conocimientos basicos de matematicas, biologia, fisica, quimica, historia, geografia e ingles."
+        }
+    ],
+    "volunteering": [
+        {
+            "position": "Profesor",
+            "event": "URBE",
+            "organisation": "Universidad Rafael Belloso Chacin",
+            "href": "",
+            "startDate": "",
+            "endDate": "2023",
+            "description": "Asignado para dictar un curso gratuito a las comunidades cercanas de ofimatica, excel, powerpoint y word."
+        }
+    ],
+    "projects": [
+        {
+            "name": "laboratorio",
+            "framework": "electron js",
+            "description": "Proyecto de tesis, sistema de gestion administrativo para laboratorio clinico. Desarrollado con Node.js, Express, MySQL y Electron.js.",
+            "href": "https://github.com/fabisb/laboratorio",
+            "stars": "2024"
+        },
+        {
+            "name": "salome17-startup",
+            "framework": "react",
+            "description": "Pagina web de catalogo de ventas, con atencion a cliente por WhatsApp. Desarrollado como practica en Next.js con React.js y Tailwind CSS.",
+            "href": "https://github.com/fabisb/salome17-startup",
+            "stars": "2024"
+        },
+        {
+            "name": "reconocimiento-facial-login",
+            "framework": "javascript",
+            "description": "Proyecto Obsoleto (desfasado en versiones) para inicio de sesion mediante reconocimiento facial.",
+            "href": "https://github.com/fabisb/reconocimiento-facial-login",
+            "stars": "2023"
+        },
+        {
+            "name": "react-native-transporte-aereo",
+            "framework": "react native",
+            "description": "Practica de React Native, aplicacion de transporte aereo con rutas y horarios.",
+            "href": "https://github.com/fabisb/react-native-transporte-aereo",
+            "stars": "2023"
+        },
+        {
+            "name": "react-native-app-sorteo",
+            "framework": "react native",
+            "description": "Practica de React Native, aplicacion de acumulacion de dinero para un sorteo final.",
+            "href": "https://github.com/fabisb/react-native-app-sorteo",
+            "stars": "2023"
+        },
+        {
+            "name": "sistema-facturacion",
+            "framework": "electron js",
+            "description": "Practica de Electron JS. Sistema de facturacion con base de datos MySQL relacional.",
+            "href": "https://github.com/fabisb/sistema-facturacion",
+            "stars": "2023"
+        },
+        {
+            "name": "mobile-store-uniTest",
+            "framework": "next.js",
+            "description": "Practica de React. Uso de Next.js para desarrollo de tienda online de telefonos moviles, con generacion de factura simple con id unico.",
+            "href": "https://github.com/fabisb/mobile-store-uniTest",
+            "stars": "2022"
+        },
+        {
+            "name": "pokedex-pokeApi",
+            "framework": "javascript",
+            "description": "Practica para uso de APIs, pokedex simple con HTML, CSS y Javascript.",
+            "href": "https://github.com/fabisb/pokedex-pokeApi",
+            "stars": "2022"
+        }
+    ]
+}
