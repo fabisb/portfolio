@@ -12,8 +12,8 @@ module.exports = {
       /* ::: CHANGE COLORS :::
       *   You can change the colors of this template. Just uncomment a color below and comment the default color.
       *   If you want to create your own color palette, go to https://colorffy.com/dark-theme-generator and create your own color palette.
-      */ 
-     /* :: Color Palette: Purple and Dark Blue */
+      */
+      /* :: Color Palette: Purple and Dark Blue */
       'primary': {
         100: '#194bff',
         200: '#525dff',
@@ -50,7 +50,7 @@ module.exports = {
         600: '#8b8b8b'
       },
       'on-background': '#ffffff',
-      */  
+      */
       /* :: Color Palette: Orange and Dark Blue
       'primary': {
         100: '#ff6b35',
@@ -91,6 +91,25 @@ module.exports = {
       */
     },
     extend: {
+    colors: {
+        primary: {
+          100: '#194bff',
+          200: '#525dff',
+          300: '#7170ff',
+          400: '#8b83ff',
+          500: '#a197ff',
+          600: '#b6abff'
+        },
+        surface: {
+          100: '#07022e',
+          200: '#1f1e42',
+          300: '#393658',
+          400: '#524f6e',
+          500: '#6d6a84',
+          600: '#89869c'
+        },
+        onBackground: '#ffffff',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':

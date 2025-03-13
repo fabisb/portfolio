@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function ExperienceItem(props) {
     return (
-        <div className="group flex flex-row mb-4 p-5 transition-all hover:bg-surface-200">
+        <div className="group flex flex-row mb-4 p-4 transition-all hover:bg-surface-200">
             <div className="basis-1/4 mr-2">
                 <Image src={props.logo} alt="Company Logo" width={70} height={70} className='object-contain object-top pt-2' />
             </div>

@@ -9,7 +9,7 @@ const Header = (props) => {
                 <h1 className='text-5xl subpixel-antialiased tracking-wide'>{props.data.name}</h1>
                 <h2 className='text-surface-600 pt-2 text-base font-normal tracking-wider'>{props.data.headline}</h2>
             </div>
-            <Navigation></Navigation>
+            <Navigation data={props.data.navigation}></Navigation>
             <Socials data={props.data.socials}></Socials>
         </div>
     )
