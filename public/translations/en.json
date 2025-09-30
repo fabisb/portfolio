@@ -1,144 +1,175 @@
 {
-    "general": {
-        "name": "Fabian Silva",
-        "headline": "Computer Engineer, Software Developer.",
-        "about": [
-            "Hello, I am a software developer and data analyst with over 4 years of experience.",
-            "Throughout my career, I have worked on various projects in both academic and professional settings, allowing me to develop skills in software development, data analysis, and database design, among others.",
-            "I am passionate about continuous learning and enjoy taking on new challenges. I always strive to improve my skills and expand my knowledge to provide efficient and innovative solutions."
-        ],
-        "socials": {
-            "email": "silvabravofabian@gmail.com",
-            "linkedin": "https://www.linkedin.com/in/fabiansilvabravo",
-            "github": "https://github.com/fabisb"
-        },
-        "navigation": {
-            "about": "About",
-            "experiences": "Experiences",
-            "education": "Education",
-            "volunteering": "Volunteering",
-            "projects": "Projects"
-            }
+  "general": {
+    "name": "Fabian Silva",
+    "headline": "Computer Engineer, Software Developer.",
+    "about": [
+      "Hello, I am a software developer and data analyst with over 4 years of experience.",
+      "Throughout my career, I have worked on various projects in both academic and professional settings, allowing me to develop skills in software development, data analysis, and database design, among others.",
+      "I am passionate about continuous learning and enjoy taking on new challenges. I always strive to improve my skills and expand my knowledge to provide efficient and innovative solutions."
+    ],
+    "socials": {
+      "email": "silvabravofabian@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/fabiansilvabravo",
+      "github": "https://github.com/fabisb"
     },
-    "experiences": [
-        {
-            "title": "Full Stack Developer",
-            "company": "LAS MERCEDES",
-            "href": "",
-            "startDate": "09/2024",
-            "endDate": "PRESENT",
-            "description": "General supervisor of the software development/maintenance team.",
-            "logo": "/logos/mercedes-logo.jpg",
-            "skills": ["Node.js","Express", "MySQL", "HTML","CSS","JavaScript","Bootstrap", "Electron.js"]
-        },
-        {
-            "title": "Junior Developer",
-            "company": "LAS MERCEDES",
-            "href": "",
-            "startDate": "05/2024",
-            "endDate": "09/2024",
-            "description": "Member of the software development team. Developed middlewares, routing, and security methods.",
-            "logo": "/logos/mercedes-logo.jpg",
-            "skills": ["Node.js", "Express", "MySQL","Puppeteer","Axios","JSONwebtoken" ]
-        },
-        {
-            "title": "Data Analyst, Software Developer",
-            "company": "LA MILAGROSA I.P.S.",
-            "href": "",
-            "startDate": "06/2023",
-            "endDate": "04/2024",
-            "description": "Development of an administrative program for a clinical laboratory. Migration and updating of databases, credentials, and statistics.",
-            "logo": "/logos/milagrosa-logo.png",
-            "skills": ["Node.js","Express","MySQL","HTML","CSS","JavaScript","Bootstrap"]
-        }
-    ],
-    "education": [
-        {
-            "subject": "Computer Engineering",
-            "degree": "",
-            "university": "Universidad Rafael Belloso Chacin", 
-            "href": "",
-            "startDate": "2019", 
-            "endDate": "2024", 
-            "description": "Computer Engineering, learning programming languages, software development, data analysis, and database design. I also gained knowledge in networking and cybersecurity, as well as electronics and control."
-        },
-        {
-            "subject": "U.E.P. CONOPAIMA",
-            "degree": "Bachelor of Science",
-            "university": "U.E.P. CONOPAIMA", 
-            "href": "",
-            "startDate": "", 
-            "endDate": "2019", 
-            "description": "Basic knowledge of mathematics, biology, physics, chemistry, history, geography, and English."
-        }
-    ],
-    "volunteering": [
-        {
-            "position": "Instructor",
-            "event": "URBE",
-            "organisation": "Universidad Rafael Belloso Chacin",
-            "href": "",
-            "startDate": "",
-            "endDate": "2023",
-            "description": "Assigned to teach a free course to nearby communities on office automation, Excel, PowerPoint, and Word."
-        }
-    ],
-    "projects": [
-        {
-            "name": "laboratorio",
-            "framework": "electron js",
-            "description": "Thesis project, administrative management system for a clinical laboratory. Developed with Node.js, Express, MySQL, and Electron.js.",
-            "href": "https://github.com/fabisb/laboratorio",
-            "stars": "2024"
-        },
-        {
-            "name": "salome17-startup",
-            "framework": "react",
-            "description": "Sales catalog website with WhatsApp customer service. Developed as a practice project using Next.js with React.js and Tailwind CSS.",
-            "href": "https://github.com/fabisb/salome17-startup",
-            "stars": "2024"
-        },
-        {
-            "name": "reconocimiento-facial-login",
-            "framework": "javascript",
-            "description": "Obsolete project (outdated versions) for facial recognition-based login.",
-            "href": "https://github.com/fabisb/reconocimiento-facial-login",
-            "stars": "2023"
-        },
-        {
-            "name": "react-native-transporte-aereo",
-            "framework": "react native",
-            "description": "React Native practice, an air transport application with routes and schedules.",
-            "href": "https://github.com/fabisb/react-native-transporte-aereo",
-            "stars": "2023"
-        },
-        {
-            "name": "react-native-app-sorteo",
-            "framework": "react native",
-            "description": "React Native practice, a money accumulation application for a final raffle.",
-            "href": "https://github.com/fabisb/react-native-app-sorteo",
-            "stars": "2023"
-        },
-        {
-            "name": "sistema-facturacion",
-            "framework": "electron js",
-            "description": "Electron JS practice. Billing system with a relational MySQL database.",
-            "href": "https://github.com/fabisb/sistema-facturacion",
-            "stars": "2023"
-        },
-        {
-            "name": "mobile-store-uniTest",
-            "framework": "next.js",
-            "description": "React practice. Using Next.js to develop an online mobile phone store with a simple invoice generator featuring a unique ID.",
-            "href": "https://github.com/fabisb/mobile-store-uniTest",
-            "stars": "2022"
-        },
-        {
-            "name": "pokedex-pokeApi",
-            "framework": "javascript",
-            "description": "Practice for API usage, a simple Pokédex with HTML, CSS, and JavaScript.",
-            "href": "https://github.com/fabisb/pokedex-pokeApi",
-            "stars": "2022"
-        }
-    ]
+    "navigation": {
+      "about": "About",
+      "experiences": "Experiences",
+      "education": "Education",
+      "volunteering": "Volunteering",
+      "projects": "Projects"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "company": "LAS MERCEDES",
+      "href": "",
+      "startDate": "09/2024",
+      "endDate": "PRESENT",
+      "description": "General supervisor of the software development/maintenance team.",
+      "logo": "/logos/mercedes-logo.jpg",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Electron.js"
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "LAS MERCEDES",
+      "href": "",
+      "startDate": "05/2024",
+      "endDate": "09/2024",
+      "description": "Member of the software development team. Developed middlewares, routing, and security methods.",
+      "logo": "/logos/mercedes-logo.jpg",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Puppeteer",
+        "Axios",
+        "JSONwebtoken"
+      ]
+    },
+    {
+      "title": "Data Analyst, Software Developer",
+      "company": "LA MILAGROSA I.P.S.",
+      "href": "",
+      "startDate": "06/2023",
+      "endDate": "04/2024",
+      "description": "Development of an administrative program for a clinical laboratory. Migration and updating of databases, credentials, and statistics.",
+      "logo": "/logos/milagrosa-logo.png",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "subject": "Computer Engineering",
+      "degree": "",
+      "university": "Universidad Rafael Belloso Chacin",
+      "href": "",
+      "startDate": "2019",
+      "endDate": "2024",
+      "description": "Computer Engineering, learning programming languages, software development, data analysis, and database design. I also gained knowledge in networking and cybersecurity, as well as electronics and control."
+    },
+    {
+      "subject": "U.E.P. CONOPAIMA",
+      "degree": "Bachelor of Science",
+      "university": "U.E.P. CONOPAIMA",
+      "href": "",
+      "startDate": "",
+      "endDate": "2019",
+      "description": "Basic knowledge of mathematics, biology, physics, chemistry, history, geography, and English."
+    }
+  ],
+  "volunteering": [
+    {
+      "position": "Instructor",
+      "event": "URBE",
+      "organisation": "Universidad Rafael Belloso Chacin",
+      "href": "",
+      "startDate": "",
+      "endDate": "2023",
+      "description": "Assigned to teach a free course to nearby communities on office automation, Excel, PowerPoint, and Word."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prueba-tecnica-CTS",
+      "framework": "vue js, python rest framework",
+      "description": "Full Stack application for managing a Valentine's Day raffle.",
+      "href": "https://github.com/fabisb/Prueba-tecnica-CTS",
+      "stars": "2025"
+    },
+    {
+      "name": "laboratorio",
+      "framework": "electron js",
+      "description": "Thesis project, administrative management system for a clinical laboratory. Developed with Node.js, Express, MySQL, and Electron.js.",
+      "href": "https://github.com/fabisb/laboratorio",
+      "stars": "2024"
+    },
+    {
+      "name": "salome17-startup",
+      "framework": "react",
+      "description": "Sales catalog website with WhatsApp customer service. Developed as a practice project using Next.js with React.js and Tailwind CSS.",
+      "href": "https://github.com/fabisb/salome17-startup",
+      "stars": "2024"
+    },
+    {
+      "name": "reconocimiento-facial-login",
+      "framework": "javascript",
+      "description": "Obsolete project (outdated versions) for facial recognition-based login.",
+      "href": "https://github.com/fabisb/reconocimiento-facial-login",
+      "stars": "2023"
+    },
+    {
+      "name": "react-native-transporte-aereo",
+      "framework": "react native",
+      "description": "React Native practice, an air transport application with routes and schedules.",
+      "href": "https://github.com/fabisb/react-native-transporte-aereo",
+      "stars": "2023"
+    },
+    {
+      "name": "react-native-app-sorteo",
+      "framework": "react native",
+      "description": "React Native practice, a money accumulation application for a final raffle.",
+      "href": "https://github.com/fabisb/react-native-app-sorteo",
+      "stars": "2023"
+    },
+    {
+      "name": "sistema-facturacion",
+      "framework": "electron js",
+      "description": "Electron JS practice. Billing system with a relational MySQL database.",
+      "href": "https://github.com/fabisb/sistema-facturacion",
+      "stars": "2023"
+    },
+    {
+      "name": "mobile-store-uniTest",
+      "framework": "next.js",
+      "description": "React practice. Using Next.js to develop an online mobile phone store with a simple invoice generator featuring a unique ID.",
+      "href": "https://github.com/fabisb/mobile-store-uniTest",
+      "stars": "2022"
+    },
+    {
+      "name": "pokedex-pokeApi",
+      "framework": "javascript",
+      "description": "Practice for API usage, a simple Pokédex with HTML, CSS, and JavaScript.",
+      "href": "https://github.com/fabisb/pokedex-pokeApi",
+      "stars": "2022"
+    }
+  ]
 }

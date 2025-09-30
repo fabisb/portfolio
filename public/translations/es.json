@@ -85,6 +85,13 @@
     ],
     "projects": [
         {
+            "name": "Prueba-tecnica-CTS",
+            "framework": "vue js, python rest framework",
+            "description": "Aplicación Full Stack para gestionar un sorteo de San Valentín.",
+            "href": "https://github.com/fabisb/Prueba-tecnica-CTS",
+            "stars": "2025"
+        },
+        {
             "name": "laboratorio",
             "framework": "electron js",
             "description": "Proyecto de tesis, sistema de gestion administrativo para laboratorio clinico. Desarrollado con Node.js, Express, MySQL y Electron.js.",
